@@ -1,5 +1,5 @@
-import Home from "../Pages/Home"
-import React from "react"
+import Home from "./Pages/Home"
+// import React from "react"
 // import { useState } from "react"
 import './app.css'
 // import { CurrencyContext } from "./context/CurrencyContext"
