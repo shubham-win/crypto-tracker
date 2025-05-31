@@ -1,4 +1,4 @@
-import Home from "./Pages/Home"
+import Home from "../Pages/Home"
 import React from "react"
 // import { useState } from "react"
 import './app.css'
