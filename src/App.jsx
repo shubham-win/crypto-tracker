@@ -1,7 +1,7 @@
 import Home from "./pages/Home"
 // import React from "react"
 // import { useState } from "react"
-import './app.css'
+import './App.css'
 // import { CurrencyContext } from "./context/CurrencyContext"
 
 function App() {
