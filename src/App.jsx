@@ -12,7 +12,9 @@ function App() {
   {/* <CurrencyContext.provider value = { {currency, setCurrency} }> */}
   <Home />
   {/* </CurrencyContext.provider> */}
-    
+    <footer>
+      <p>Copyright &copy; 2025 Wincorp</p>
+    </footer>
   </>
 )
 }
